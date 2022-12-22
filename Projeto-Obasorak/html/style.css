@@ -37,6 +37,7 @@ nav > a:hover {
 
 body {
     background-image: url(https://images.pexels.com/photos/14191357/pexels-photo-14191357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
     min-width: 450px;
     max-width: 1000px;
     margin: auto;
