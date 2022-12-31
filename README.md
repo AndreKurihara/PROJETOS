@@ -2,7 +2,7 @@
 
 Esse é um registro dos meus estudos iniciais de HTML e CSS criando mini-projetos utilizando os conhecimentos adquiridos até então!
 
-1. ## Obasorak
+1. ## Obasorac
 
     Esse primeiro projeto foi criado com a idéia de um site para a rádio de uma cidade fictícia chamada Obasorac. Coloquei em prática **conceitos de CSS e imangens responsívas**.
 
